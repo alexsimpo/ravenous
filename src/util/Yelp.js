@@ -1,4 +1,4 @@
-const apiKey = 'rT8EiVAH774X00v9oDQDB5AyiGS8DfS-2zhv0nkW248sPErY4rxHNN9EdcfwO0b_lwUR0DiJmYWwMdwAriNDYfWcjCc5Wag8Ze-28A1lUebpcDeYJfrFzP1D37u0XnYx';
+const apiKey = '';
 const Yelp = {
     searchYelp(term, location, sortBy){
         return fetch(
